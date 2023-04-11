@@ -1,0 +1,128 @@
+2023-04-08 15:19:08,137 - layoutenv.envs.sb_layout_env - INFO - func name: render(), arg: source: C:\Users\cursist\Dorus\ThesisResearch\PiasExampleFiles\NoTrans
+2023-04-08 15:19:40,726 - layoutenv.envs.sb_layout_env - INFO - LayoutEnv1.reset() called.
+2023-04-08 15:20:36,994 - layoutenv.envs.sb_layout_env - INFO - LayoutEnv.step() @timestep 0
+2023-04-08 15:20:36,996 - layoutenv.envs.sb_layout_env - INFO - LayoutEnv.step, arg: action: [-0.96628088], scaled: [1.61851788], lower_bound: 0, 96
+2023-04-08 15:20:37,018 - layoutenv.envs.sb_layout_env - INFO - AddPhysicalPlane, Frame, position [1.61851788]
+2023-04-08 15:20:56,553 - layoutenv.envs.sb_layout_env - INFO - required subdivision idx: 0.4736842105263158, attained subdivision idx: 0.22114
+2023-04-08 15:20:56,554 - layoutenv.envs.sb_layout_env - INFO - _reward() 0
+2023-04-08 15:20:56,557 - layoutenv.envs.sb_layout_env - INFO - LayoutEnv.step() @timestep 1
+2023-04-08 15:20:56,557 - layoutenv.envs.sb_layout_env - INFO - LayoutEnv.step, arg: action: [-1.], scaled: [0.], lower_bound: 0, 96
+2023-04-08 15:20:56,571 - layoutenv.envs.sb_layout_env - INFO - AddPhysicalPlane, Frame, position [0.]
+2023-04-08 15:21:15,275 - layoutenv.envs.sb_layout_env - INFO - required subdivision idx: 0.4736842105263158, attained subdivision idx: 0.22114
+2023-04-08 15:21:15,275 - layoutenv.envs.sb_layout_env - INFO - _reward() 0
+2023-04-08 15:21:15,277 - layoutenv.envs.sb_layout_env - INFO - LayoutEnv.step() @timestep 2
+2023-04-08 15:21:15,277 - layoutenv.envs.sb_layout_env - INFO - LayoutEnv.step, arg: action: [-1.], scaled: [0.], lower_bound: 0, 96
+2023-04-08 15:21:15,292 - layoutenv.envs.sb_layout_env - INFO - AddPhysicalPlane, Frame, position [0.]
+2023-04-08 15:21:38,590 - layoutenv.envs.sb_layout_env - INFO - required subdivision idx: 0.4736842105263158, attained subdivision idx: 0.22114
+2023-04-08 15:21:38,590 - layoutenv.envs.sb_layout_env - INFO - _reward() 0
+2023-04-08 15:21:38,592 - layoutenv.envs.sb_layout_env - INFO - LayoutEnv.step() @timestep 3
+2023-04-08 15:21:38,592 - layoutenv.envs.sb_layout_env - INFO - LayoutEnv.step, arg: action: [0.06542668], scaled: [51.14048052], lower_bound: 0, 96
+2023-04-08 15:21:38,603 - layoutenv.envs.sb_layout_env - INFO - AddPhysicalPlane, Frame, position [51.14048052]
+2023-04-08 15:21:54,203 - layoutenv.envs.sb_layout_env - INFO - required subdivision idx: 0.4736842105263158, attained subdivision idx: 0.20034000000000002
+2023-04-08 15:21:54,203 - layoutenv.envs.sb_layout_env - INFO - _reward() 0
+2023-04-08 15:21:54,205 - layoutenv.envs.sb_layout_env - INFO - LayoutEnv.step() @timestep 4
+2023-04-08 15:21:54,205 - layoutenv.envs.sb_layout_env - INFO - LayoutEnv.step, arg: action: [1.], scaled: [96.], lower_bound: 0, 96
+2023-04-08 15:21:54,225 - layoutenv.envs.sb_layout_env - INFO - AddPhysicalPlane, Frame, position [96.]
+2023-04-08 15:22:09,680 - layoutenv.envs.sb_layout_env - INFO - required subdivision idx: 0.4736842105263158, attained subdivision idx: 0.20034000000000002
+2023-04-08 15:22:09,680 - layoutenv.envs.sb_layout_env - INFO - _reward() 0
+2023-04-08 15:22:09,758 - layoutenv.envs.sb_layout_env - INFO - LayoutEnv.step() @timestep 5
+2023-04-08 15:22:09,759 - layoutenv.envs.sb_layout_env - INFO - LayoutEnv.step, arg: action: [0.84419852], scaled: [88.5215292], lower_bound: 0, 96
+2023-04-08 15:22:09,782 - layoutenv.envs.sb_layout_env - INFO - AddPhysicalPlane, Frame, position [88.5215292]
+2023-04-08 15:22:27,048 - layoutenv.envs.sb_layout_env - INFO - required subdivision idx: 0.4736842105263158, attained subdivision idx: 0.10149999999999999
+2023-04-08 15:22:27,049 - layoutenv.envs.sb_layout_env - INFO - _reward() 0
+2023-04-08 15:22:27,052 - layoutenv.envs.sb_layout_env - INFO - LayoutEnv.step() @timestep 6
+2023-04-08 15:22:27,053 - layoutenv.envs.sb_layout_env - INFO - LayoutEnv.step, arg: action: [0.01467084], scaled: [48.7042003], lower_bound: 0, 96
+2023-04-08 15:22:27,075 - layoutenv.envs.sb_layout_env - INFO - AddPhysicalPlane, Frame, position [48.7042003]
+2023-04-08 15:22:43,320 - layoutenv.envs.sb_layout_env - INFO - required subdivision idx: 0.4736842105263158, attained subdivision idx: 0.08196
+2023-04-08 15:22:43,320 - layoutenv.envs.sb_layout_env - INFO - _reward() 0
+2023-04-08 15:22:43,322 - layoutenv.envs.sb_layout_env - INFO - LayoutEnv.step() @timestep 7
+2023-04-08 15:22:43,322 - layoutenv.envs.sb_layout_env - INFO - LayoutEnv.step, arg: action: [-1.], scaled: [0.], lower_bound: 0, 96
+2023-04-08 15:22:43,337 - layoutenv.envs.sb_layout_env - INFO - AddPhysicalPlane, Frame, position [0.]
+2023-04-08 15:22:59,471 - layoutenv.envs.sb_layout_env - INFO - required subdivision idx: 0.4736842105263158, attained subdivision idx: 0.08196
+2023-04-08 15:22:59,471 - layoutenv.envs.sb_layout_env - INFO - _reward() 0
+2023-04-08 15:22:59,472 - layoutenv.envs.sb_layout_env - INFO - LayoutEnv.step() @timestep 8
+2023-04-08 15:22:59,472 - layoutenv.envs.sb_layout_env - INFO - LayoutEnv.step, arg: action: [-0.33900425], scaled: [31.72779608], lower_bound: 0, 96
+2023-04-08 15:22:59,483 - layoutenv.envs.sb_layout_env - INFO - AddPhysicalPlane, Frame, position [31.72779608]
+2023-04-08 15:23:15,077 - layoutenv.envs.sb_layout_env - INFO - required subdivision idx: 0.4736842105263158, attained subdivision idx: 0.08196
+2023-04-08 15:23:15,077 - layoutenv.envs.sb_layout_env - INFO - _reward() 0
+2023-04-08 15:23:15,078 - layoutenv.envs.sb_layout_env - INFO - LayoutEnv.step() @timestep 9
+2023-04-08 15:23:15,079 - layoutenv.envs.sb_layout_env - INFO - LayoutEnv.step, arg: action: [0.44714135], scaled: [69.46278477], lower_bound: 0, 96
+2023-04-08 15:23:15,094 - layoutenv.envs.sb_layout_env - INFO - AddPhysicalPlane, Frame, position [69.46278477]
+2023-04-08 15:23:30,528 - layoutenv.envs.sb_layout_env - INFO - required subdivision idx: 0.4736842105263158, attained subdivision idx: 0.08196
+2023-04-08 15:23:30,528 - layoutenv.envs.sb_layout_env - INFO - _reward() 0
+2023-04-08 15:23:30,579 - layoutenv.envs.sb_layout_env - INFO - LayoutEnv.step() @timestep 10
+2023-04-08 15:23:30,580 - layoutenv.envs.sb_layout_env - INFO - LayoutEnv.step, arg: action: [0.50759912], scaled: [72.36475754], lower_bound: 0, 96
+2023-04-08 15:23:30,598 - layoutenv.envs.sb_layout_env - INFO - AddPhysicalPlane, Frame, position [72.36475754]
+2023-04-08 15:23:48,087 - layoutenv.envs.sb_layout_env - INFO - required subdivision idx: 0.4736842105263158, attained subdivision idx: 0.08196
+2023-04-08 15:23:48,087 - layoutenv.envs.sb_layout_env - INFO - _reward() 0
+2023-04-08 15:23:48,088 - layoutenv.envs.sb_layout_env - INFO - LayoutEnv.step() @timestep 11
+2023-04-08 15:23:48,088 - layoutenv.envs.sb_layout_env - INFO - LayoutEnv.step, arg: action: [-1.], scaled: [0.], lower_bound: 0, 96
+2023-04-08 15:23:48,099 - layoutenv.envs.sb_layout_env - INFO - AddPhysicalPlane, Frame, position [0.]
+2023-04-08 15:24:04,336 - layoutenv.envs.sb_layout_env - INFO - required subdivision idx: 0.4736842105263158, attained subdivision idx: 0.08196
+2023-04-08 15:24:04,336 - layoutenv.envs.sb_layout_env - INFO - _reward() 0
+2023-04-08 15:24:04,337 - layoutenv.envs.sb_layout_env - INFO - LayoutEnv.step() @timestep 12
+2023-04-08 15:24:04,338 - layoutenv.envs.sb_layout_env - INFO - LayoutEnv.step, arg: action: [-0.8329103], scaled: [8.02030563], lower_bound: 0, 96
+2023-04-08 15:24:04,351 - layoutenv.envs.sb_layout_env - INFO - AddPhysicalPlane, Frame, position [8.02030563]
+2023-04-08 15:24:20,346 - layoutenv.envs.sb_layout_env - INFO - required subdivision idx: 0.4736842105263158, attained subdivision idx: 0.08196
+2023-04-08 15:24:20,346 - layoutenv.envs.sb_layout_env - INFO - _reward() 0
+2023-04-08 15:24:20,347 - layoutenv.envs.sb_layout_env - INFO - LayoutEnv.step() @timestep 13
+2023-04-08 15:24:20,347 - layoutenv.envs.sb_layout_env - INFO - LayoutEnv.step, arg: action: [1.], scaled: [96.], lower_bound: 0, 96
+2023-04-08 15:24:20,359 - layoutenv.envs.sb_layout_env - INFO - AddPhysicalPlane, Frame, position [96.]
+2023-04-08 15:24:36,290 - layoutenv.envs.sb_layout_env - INFO - required subdivision idx: 0.4736842105263158, attained subdivision idx: 0.08196
+2023-04-08 15:24:36,290 - layoutenv.envs.sb_layout_env - INFO - _reward() 0
+2023-04-08 15:24:36,291 - layoutenv.envs.sb_layout_env - INFO - LayoutEnv.step() @timestep 14
+2023-04-08 15:24:36,292 - layoutenv.envs.sb_layout_env - INFO - LayoutEnv.step, arg: action: [-0.58577508], scaled: [19.88279629], lower_bound: 0, 96
+2023-04-08 15:24:36,303 - layoutenv.envs.sb_layout_env - INFO - AddPhysicalPlane, Frame, position [19.88279629]
+2023-04-08 15:24:59,838 - layoutenv.envs.sb_layout_env - INFO - required subdivision idx: 0.4736842105263158, attained subdivision idx: 0.08196
+2023-04-08 15:24:59,839 - layoutenv.envs.sb_layout_env - INFO - _reward() 0
+2023-04-08 15:24:59,839 - layoutenv.envs.sb_layout_env - INFO - func name: _truncated 15 >= 15
+2023-04-08 15:24:59,839 - layoutenv.envs.sb_layout_env - INFO - LayoutEnv1.reset() called.
+2023-04-08 15:29:22,583 - layoutenv.envs.sb_layout_env - INFO - RemovePhysicalPlane with id 24 and name Frame 3+119mm (1.619 m)
+2023-04-08 15:29:23,458 - layoutenv.envs.sb_layout_env - INFO - RemovePhysicalPlane with id 25 and name Extreme back plane
+2023-04-08 15:29:24,041 - layoutenv.envs.sb_layout_env - INFO - RemovePhysicalPlane with id 26 and name Extreme back plane
+2023-04-08 15:29:24,601 - layoutenv.envs.sb_layout_env - INFO - RemovePhysicalPlane with id 27 and name Frame 102+140mm (51.140 m)
+2023-04-08 15:29:25,242 - layoutenv.envs.sb_layout_env - INFO - RemovePhysicalPlane with id 28 and name Frame 192 (96.000 m)
+2023-04-08 15:29:25,794 - layoutenv.envs.sb_layout_env - INFO - RemovePhysicalPlane with id 29 and name Frame 177+22mm (88.522 m)
+2023-04-08 15:29:26,310 - layoutenv.envs.sb_layout_env - INFO - RemovePhysicalPlane with id 30 and name Frame 97+204mm (48.704 m)
+2023-04-08 15:29:26,825 - layoutenv.envs.sb_layout_env - INFO - RemovePhysicalPlane with id 31 and name Extreme back plane
+2023-04-08 15:29:27,227 - layoutenv.envs.sb_layout_env - INFO - RemovePhysicalPlane with id 32 and name Frame 63+228mm (31.728 m)
+2023-04-08 15:29:27,702 - layoutenv.envs.sb_layout_env - INFO - RemovePhysicalPlane with id 33 and name Frame 139-37mm (69.463 m)
+2023-04-08 15:29:28,132 - layoutenv.envs.sb_layout_env - INFO - RemovePhysicalPlane with id 34 and name Frame 145-135mm (72.365 m)
+2023-04-08 15:29:28,543 - layoutenv.envs.sb_layout_env - INFO - RemovePhysicalPlane with id 35 and name Extreme back plane
+2023-04-08 15:29:28,889 - layoutenv.envs.sb_layout_env - INFO - RemovePhysicalPlane with id 36 and name Frame 16+20mm (8.020 m)
+2023-04-08 15:29:29,253 - layoutenv.envs.sb_layout_env - INFO - RemovePhysicalPlane with id 37 and name Frame 192 (96.000 m)
+2023-04-08 15:29:29,619 - layoutenv.envs.sb_layout_env - INFO - RemovePhysicalPlane with id 38 and name Frame 40-117mm (19.883 m)
+2023-04-08 15:29:39,354 - layoutenv.envs.sb_layout_env - INFO - LayoutEnv.step() @timestep 0
+2023-04-08 15:29:39,354 - layoutenv.envs.sb_layout_env - INFO - LayoutEnv.step, arg: action: [1.], scaled: [96.], lower_bound: 0, 96
+2023-04-08 15:29:39,388 - layoutenv.envs.sb_layout_env - INFO - AddPhysicalPlane, Frame, position [96.]
+2023-04-08 15:30:08,989 - layoutenv.envs.sb_layout_env - INFO - required subdivision idx: 0.4736842105263158, attained subdivision idx: 0.23498
+2023-04-08 15:30:08,989 - layoutenv.envs.sb_layout_env - INFO - _reward() 0
+2023-04-08 15:30:08,990 - layoutenv.envs.sb_layout_env - INFO - LayoutEnv.step() @timestep 1
+2023-04-08 15:30:08,991 - layoutenv.envs.sb_layout_env - INFO - LayoutEnv.step, arg: action: [0.26625529], scaled: [60.78025389], lower_bound: 0, 96
+2023-04-08 15:30:09,021 - layoutenv.envs.sb_layout_env - INFO - AddPhysicalPlane, Frame, position [60.78025389]
+2023-04-08 15:30:33,943 - layoutenv.envs.sb_layout_env - INFO - required subdivision idx: 0.4736842105263158, attained subdivision idx: 0.4217000000000001
+2023-04-08 15:30:33,943 - layoutenv.envs.sb_layout_env - INFO - _reward() 0
+2023-04-08 15:30:33,945 - layoutenv.envs.sb_layout_env - INFO - LayoutEnv.step() @timestep 2
+2023-04-08 15:30:33,946 - layoutenv.envs.sb_layout_env - INFO - LayoutEnv.step, arg: action: [-0.12213464], scaled: [42.13753724], lower_bound: 0, 96
+2023-04-08 15:30:34,001 - layoutenv.envs.sb_layout_env - INFO - AddPhysicalPlane, Frame, position [42.13753724]
+2023-04-08 15:31:02,800 - layoutenv.envs.sb_layout_env - INFO - required subdivision idx: 0.4736842105263158, attained subdivision idx: 0.43146
+2023-04-08 15:31:02,800 - layoutenv.envs.sb_layout_env - INFO - _reward() 0
+2023-04-08 15:31:02,801 - layoutenv.envs.sb_layout_env - INFO - LayoutEnv.step() @timestep 3
+2023-04-08 15:31:02,802 - layoutenv.envs.sb_layout_env - INFO - LayoutEnv.step, arg: action: [-0.84658366], scaled: [7.36398411], lower_bound: 0, 96
+2023-04-08 15:31:02,831 - layoutenv.envs.sb_layout_env - INFO - AddPhysicalPlane, Frame, position [7.36398411]
+2023-04-08 15:31:30,053 - layoutenv.envs.sb_layout_env - INFO - required subdivision idx: 0.4736842105263158, attained subdivision idx: 0.4808
+2023-04-08 15:31:30,053 - layoutenv.envs.sb_layout_env - INFO - _reward() 2
+2023-04-08 15:31:30,053 - layoutenv.envs.sb_layout_env - INFO - func name: _terminated with reward 2
+2023-04-08 15:31:30,053 - layoutenv.envs.sb_layout_env - INFO - LayoutEnv1.reset() called.
+2023-04-08 15:33:53,863 - layoutenv.envs.sb_layout_env - INFO - RemovePhysicalPlane with id 39 and name Frame 192 (96.000 m)
+2023-04-08 15:33:54,290 - layoutenv.envs.sb_layout_env - INFO - RemovePhysicalPlane with id 40 and name Frame 122-220mm (60.780 m)
+2023-04-08 15:33:54,701 - layoutenv.envs.sb_layout_env - INFO - RemovePhysicalPlane with id 41 and name Frame 84+138mm (42.138 m)
+2023-04-08 15:33:55,095 - layoutenv.envs.sb_layout_env - INFO - RemovePhysicalPlane with id 42 and name Frame 15-136mm (7.364 m)
+2023-04-08 15:34:06,226 - layoutenv.envs.sb_layout_env - INFO - LayoutEnv.step() @timestep 0
+2023-04-08 15:34:06,226 - layoutenv.envs.sb_layout_env - INFO - LayoutEnv.step, arg: action: [-0.24040246], scaled: [36.46068192], lower_bound: 0, 96
+2023-04-08 15:34:06,250 - layoutenv.envs.sb_layout_env - INFO - AddPhysicalPlane, Frame, position [36.46068192]
+2023-04-08 15:34:38,287 - layoutenv.envs.sb_layout_env - INFO - required subdivision idx: 0.4736842105263158, attained subdivision idx: 0.26198
+2023-04-08 15:34:38,287 - layoutenv.envs.sb_layout_env - INFO - _reward() 0
+2023-04-08 15:58:00,931 - layoutenv.envs.sb_layout_env - INFO - func name: render(), arg: source: C:\Users\cursist\Dorus\ThesisResearch\PiasExampleFiles\NoTrans
+2023-04-08 16:00:34,879 - layoutenv.envs.sb_layout_env - INFO - func name: render(), arg: source: C:\Users\cursist\Dorus\ThesisResearch\PiasExampleFiles\NoTrans
+2023-04-08 16:01:22,593 - layoutenv.envs.sb_layout_env - INFO - func name: render(), arg: source: C:\Users\cursist\Dorus\ThesisResearch\PiasExampleFiles\NoTrans

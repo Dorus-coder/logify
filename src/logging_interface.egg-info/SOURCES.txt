@@ -1,0 +1,7 @@
+LICENSE
+pyproject.toml
+src/stream.py
+src/logging_interface.egg-info/PKG-INFO
+src/logging_interface.egg-info/SOURCES.txt
+src/logging_interface.egg-info/dependency_links.txt
+src/logging_interface.egg-info/top_level.txt
