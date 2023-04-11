@@ -1,3 +1,4 @@
+from filter import filter_dataframe
 import streamlit as st
 import pandas as pd
 import numpy as np
@@ -27,7 +28,9 @@ for step in df['message']:
         timestep = 0 
 
 chart_data = pd.DataFrame(np.array(len_ep), columns=['len ep'])
+filter_df = filter_dataframe(df)
 
+# mean attained index per episode
 
-st.write(df)
-st.bar_chart(chart_data, x='episode', y='len episode')
+st.write(filter_df)
+st.bar_chart(chart_data)
