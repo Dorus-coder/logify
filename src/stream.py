@@ -17,20 +17,27 @@ df = pd.read_csv(StringIO(data.read()), sep=' - ', names=['time', 'module', 'lev
 
 len_ep = []
 timestep = 0
+
+class LogFile:
+    def __init__(self):
+        self.timestep = 0
+    
+
 for step in df['message']:
     if re.search(r"(@timestep )", step):
         timestep += 1
     elif re.search(r"_terminated with reward ", step):
-        len_ep += {timestep}
+        len_ep += [timestep]
         timestep = 0
     elif re.search("_truncated ", step):
-        len_ep += {timestep}
+        len_ep +=[timestep]
         timestep = 0 
 
 chart_data = pd.DataFrame(np.array(len_ep), columns=['len ep'])
 filter_df = filter_dataframe(df)
 
 # mean attained index per episode
+
 
 st.write(filter_df)
 st.bar_chart(chart_data)
